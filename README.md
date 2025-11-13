@@ -10,7 +10,7 @@
 - 🔥 Skilled in **Firebase, Supabase, REST APIs, and scalable backend architectures**  
 - 🧠 Focused on writing **clean, optimized, and maintainable** code  
 - 🌍 Currently exploring **Next.js**, **GraphQL**, and **AI-driven mobile experiences**  
-- 🤝 Open to **freelance, remote, or full-time** opportunities in frontend or mobile development  
+- 🤝 Open to **freelance, remote, or full-time** opportunities in full stack and mobile development 
 
 ---
 
